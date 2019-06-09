@@ -1,0 +1,14 @@
+Style/Documentation:
+  Enabled: false
+
+Metrics/BlockLength:
+  Max: 45
+
+Metrics/MethodLength:
+  Max: 14
+
+Metrics/AbcSize:
+  Max: 18
+
+Style/RegexpLiteral:
+  Enabled: false

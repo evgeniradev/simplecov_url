@@ -1,0 +1,6 @@
+css_test
+
+body {
+  background: url('image.png');
+  background: url('image.png') no-repeat;
+}
